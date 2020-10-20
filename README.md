@@ -1,5 +1,4 @@
-# PMTA-oempro-
-PMTA-oempro一键安装包
+# PMTA-oempro-PMTA-oempro一键安装包
 
 
 PMTA-oempro一键安装包-交流QQ群：397745473,对laoda发布的一键安装脚本进行一些修改，因为有一些地方可能存在一些小问题。
